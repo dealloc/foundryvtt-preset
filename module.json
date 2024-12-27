@@ -1,0 +1,146 @@
+{
+  "id": "deallocs-preset",
+  "title": "dealloc's preset",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "Wannes",
+      "discord": "dealloc",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dd-import",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "healthEstimate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "jb2a_patreon",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-combat-details",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-common-display",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pathmuncher",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-automations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-award-xp",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-damage-estimate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-drag-measurement-action-icon",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-graphics",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-modifiers-matter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-ranged-combat",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-reaction",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-sustain-reminder",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-toolbelt",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "polyglot",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-pf2e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "torch",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "monks-bloodsplats",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "readme": "README.md"
+}
